@@ -2,8 +2,10 @@ var Cc = Components.classes;
 var Ci = Components.interfaces;
 
 var host_changes = {
-	"ajax.googleapis.com":"ajax.lug.ustc.edu.cn",
-	"fonts.googleapis.com":"fonts.lug.ustc.edu.cn",
+	//"ajax.googleapis.com":"ajax.lug.ustc.edu.cn",
+	//"fonts.googleapis.com":"fonts.lug.ustc.edu.cn",
+	"ajax.googleapis.com":"ajax.weirui.org",
+	"fonts.googleapis.com":"fonts.weirui.org",
 	"themes.googleusercontent.com":"google-themes.lug.ustc.edu.cn"
 };
 
